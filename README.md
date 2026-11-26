@@ -4,7 +4,7 @@ Code to reproduce all tables, figures and statistics in:
 
 > Vidal-Sepúlveda, M., Beroiza, F., & Olivares-Rodríguez, C. (in review). *Beyond Territorial Gaps: Attitudes, Skills, and Artificial Intelligence Adoption Profiles among Rural Primary Teachers in Chile*. 
 
-The data are archived separately on Zenodo: [AUTHORS: DOI of the open data record].
+The data are archived separately on Zenodo: 10.5281/zenodo.24555627.
 
 ## Requirements
 
