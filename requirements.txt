@@ -1,0 +1,10 @@
+# Versions used to produce the results reported in the article (Python 3.13)
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+statsmodels==0.15.0
+patsy==1.0.3
+scikit-learn==1.9.1
+kmedoids==0.5.5
+firthmodels==0.8.2
+matplotlib==3.11.2

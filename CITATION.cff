@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Beyond Territorial Gaps – analysis code"
+authors:
+  - family-names: "Vidal-Sepúlveda"
+    given-names: "Martha"
+  - family-names: "Beroiza"
+    given-names: "Francisca"
+  - family-names: "Olivares-Rodríguez"
+    given-names: "Cristian"
+license: MIT
+repository-code: "https://github.com/[AUTHORS]/[REPOSITORY]"
